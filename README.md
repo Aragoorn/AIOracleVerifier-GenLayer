@@ -1,3 +1,6 @@
+<img width="1920" height="882" alt="Screenshot (3255)" src="https://github.com/user-attachments/assets/b3493333-2769-4bdb-97a7-314a45bfc216" />
+<img width="1920" height="860" alt="Screenshot (3254)" src="https://github.com/user-attachments/assets/3b2aa4ab-2480-41cb-be47-0691242f620b" />
+
 🛡️ AIOracleVerifier — GenLayer Intelligent Contract
 An advanced, production-grade on-chain fact-checking oracle built on GenLayer, leveraging GenVM, real-world web scraping, and custom validator consensus logic.
 
